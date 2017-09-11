@@ -1,0 +1,13 @@
+{
+  "name": "webpack-babel-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simon Lang <simon.lang@cambia.org>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.5.6"
+  }
+}
